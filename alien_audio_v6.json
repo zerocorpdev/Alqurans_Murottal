@@ -1,0 +1,1058 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"null",
+      "main_ads_rewards":"null",
+      "backup_ads_natives":"null",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"null",
+      "open_ads_admob":"null",
+      "open_ads_alien":"null",
+      "switch_open_ads":"0",
+      "switch_banner_natives_ads":"0",
+      "interval_intertitial": 5,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Data": [
+    {
+      "id": 114,
+      "name_category": "",
+      "title": "Al Fatihah - Pembukaan (7 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/001.mp3",
+      "duration": "51",
+      "lyrics": "" 
+    },
+    {
+      "id": 113,
+      "name_category": "",
+      "title": "Al Baqarah - Sapi Betina (286 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/002.mp3",
+      "duration": "7539",
+       "lyrics": ""
+    },
+    {
+      "id": 112,
+      "name_category": "",
+      "title": "Ali 'Imran - Keluarga Imran (200 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/003.mp3",
+      "duration": "4649",
+      "lyrics": ""
+    },
+    {
+      "id": 111,
+      "name_category": "",
+      "title": "An Nisa' - Wanita (176 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/004.mp3",
+      "duration": "4785",
+      "lyrics": ""
+    },
+    {
+      "id": 110,
+      "name_category": "",
+      "title": "Al Ma'idah - Hidangan Makanan (120 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/005.mp3",
+      "duration": "3767",
+      "lyrics": ""
+    },
+    {
+      "id": 109,
+      "name_category": "",
+      "title": "Al An'am - Binatang Ternak (165 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/006.mp3",
+      "duration": "4335",
+      "lyrics": ""
+    },
+    {
+      "id": 108,
+      "name_category": "",
+      "title": "Al A'raf - Tempat Tertinggi (206 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/007.mp3",
+      "duration": "4972",
+      "lyrics": ""
+    },
+    {
+      "id": 107,
+      "name_category": "",
+      "title": "Al Anfal - Rampasan Perang (75 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/008.mp3",
+      "duration": "1823",
+      "lyrics": "" 
+    },
+    {
+      "id": 106,
+      "name_category": "",
+      "title": "At Taubah - Pengampunan (129 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/009.mp3",
+      "duration": "3624",
+       "lyrics": ""
+    },
+    {
+      "id": 105,
+      "name_category": "",
+      "title": "Yunus - Yunus (109 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/010.mp3",
+      "duration": "2690",
+      "lyrics": ""
+    },
+    {
+      "id": 104,
+      "name_category": "",
+      "title": "Hud - Hud (123 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/011.mp3",
+      "duration": "2771",
+      "lyrics": ""
+    },
+    {
+      "id": 103,
+      "name_category": "",
+      "title": "Yusuf - Yusuf (111 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/012.mp3",
+      "duration": "2524",
+      "lyrics": ""
+    },
+    {
+      "id": 102,
+      "name_category": "",
+      "title": "Ar Ra'd - Petir (43 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/013.mp3",
+      "duration": "1216",
+      "lyrics": ""
+    },
+    {
+      "id": 101,
+      "name_category": "",
+      "title": "Ibrahim - Ibrahim (52 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/014.mp3",
+      "duration": "1227",
+      "lyrics": ""
+    },
+    {
+      "id": 100,
+      "name_category": "",
+      "title": "Al Hijr - Gunung Hjir (99 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/015.mp3",
+      "duration": "954",
+      "lyrics": "" 
+    },
+    {
+      "id": 99,
+      "name_category": "",
+      "title": "An Nahl - Lebah (128 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/016.mp3",
+      "duration": "2528",
+       "lyrics": ""
+    },
+    {
+      "id": 98,
+      "name_category": "",
+      "title": "Al Isra' - Perjalanan Malam Hari (111 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/017.mp3",
+      "duration": "2113",
+      "lyrics": ""
+    },
+    {
+      "id": 97,
+      "name_category": "",
+      "title": "Al Kahfi - Goa (110 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/018.mp3",
+      "duration": "1995",
+      "lyrics": ""
+    },
+    {
+      "id": 96,
+      "name_category": "",
+      "title": "Maryam - Maryam (98 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/019.mp3",
+      "duration": "1282",
+      "lyrics": ""
+    },
+    {
+      "id": 95,
+      "name_category": "",
+      "title": "Toha - Toha (135 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/020.mp3",
+      "duration": "1627",
+      "lyrics": ""
+    },
+    {
+      "id": 94,
+      "name_category": "",
+      "title": "Al Anbiya' - Para Nabi (112 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/021.mp3",
+      "duration": "1570",
+      "lyrics": ""
+    },
+    {
+      "id": 93,
+      "name_category": "",
+      "title": "Al Hajj - Haji (78 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/022.mp3",
+      "duration": "1772",
+      "lyrics": "" 
+    },
+    {
+      "id": 92,
+      "name_category": "",
+      "title": "Al Mu'minun - Orang-orang Mukmin (118 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/023.mp3",
+      "duration": "1485",
+       "lyrics": ""
+    },
+    {
+      "id": 91,
+      "name_category": "",
+      "title": "An Nur - Cahaya (64 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/024.mp3",
+      "duration": "1840",
+      "lyrics": ""
+    },
+    {
+      "id": 90,
+      "name_category": "",
+      "title": "Al Furqon' - Pembeda (77 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/025.mp3",
+      "duration": "1101",
+      "lyrics": ""
+    },
+    {
+      "id": 89,
+      "name_category": "",
+      "title": "Asy Syu'ara' -Penyair (227 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/026.mp3",
+      "duration": "1832",
+      "lyrics": ""
+    },
+    {
+      "id": 88,
+      "name_category": "",
+      "title": "An Naml - Semut (93 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/027.mp3",
+      "duration": "1572",
+      "lyrics": ""
+    },
+    {
+      "id": 87,
+      "name_category": "",
+      "title": "Al Qosos - Cerita (88 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/028.mp3",
+      "duration": "1903",
+      "lyrics": ""
+    },
+    {
+      "id": 86,
+      "name_category": "",
+      "title": "Al 'Ankabut - Laba-laba (69 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/029.mp3",
+      "duration": "1270",
+      "lyrics": "" 
+    },
+    {
+      "id": 85,
+      "name_category": "",
+      "title": "Ar Rum - Bangsa Romawi (60 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/030.mp3",
+      "duration": "1171",
+       "lyrics": ""
+    },
+    {
+      "id": 84,
+      "name_category": "",
+      "title": "Luqman - Keluarga Luqman (34 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/031.mp3",
+      "duration": "715",
+      "lyrics": ""
+    },
+    {
+      "id": 83,
+      "name_category": "",
+      "title": "As Sajdah - Sajdah (30 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/032.mp3",
+      "duration": "523",
+      "lyrics": ""
+    },
+    {
+      "id": 82,
+      "name_category": "",
+      "title": "Al Ahzab - Golongan Yang Bersekutu (73 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/033.mp3",
+      "duration": "1742",
+      "lyrics": ""
+    },
+    {
+      "id": 81,
+      "name_category": "",
+      "title": "Saba' - Kaum Saba (54 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/034.mp3",
+      "duration": "1142",
+      "lyrics": ""
+    },
+    {
+      "id": 80,
+      "name_category": "",
+      "title": "Fatir - Pencipta (45 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/035.mp3",
+      "duration": "1056",
+      "lyrics": ""
+    },
+    {
+      "id": 79,
+      "name_category": "",
+      "title": "Yasin - Yasin (83 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/036.mp3",
+      "duration": "1059",
+      "lyrics": "" 
+    },
+    {
+      "id": 78,
+      "name_category": "",
+      "title": "As Shoffat - Barisan-barisan (182 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/037.mp3",
+      "duration": "1449",
+       "lyrics": ""
+    },
+    {
+      "id": 77,
+      "name_category": "",
+      "title": "Shod - Shod (88 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/038.mp3",
+      "duration": "1069",
+      "lyrics": ""
+    },
+    {
+      "id": 76,
+      "name_category": "",
+      "title": "Az Zumar - Rombongan (75 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/039.mp3",
+      "duration": "1629",
+      "lyrics": ""
+    },
+    {
+      "id": 75,
+      "name_category": "",
+      "title": "Al Mu'min - Orang Yang Beriman (85 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/040.mp3",
+      "duration": "1567",
+      "lyrics": ""
+    },
+    {
+      "id": 74,
+      "name_category": "",
+      "title": "Fussilat - Yang Dijelaskan (54 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/041.mp3",
+      "duration": "1160",
+      "lyrics": ""
+    },
+    {
+      "id": 73,
+      "name_category": "",
+      "title": "Asy Syura - Musyawarah (206 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/042.mp3",
+      "duration": "1169",
+      "lyrics": ""
+    },
+    {
+      "id": 72,
+      "name_category": "",
+      "title": "Az Zukhruf - Perhiasan (89 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/043.mp3",
+      "duration": "1228",
+      "lyrics": "" 
+    },
+    {
+      "id": 71,
+      "name_category": "",
+      "title": "Ad Dukhon - Kabut (59 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/044.mp3",
+      "duration": "576",
+       "lyrics": ""
+    },
+    {
+      "id": 70,
+      "name_category": "",
+      "title": "Al Jatsiyah - Yang Bertekuk Lutut (37 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/045.mp3",
+      "duration": "620",
+      "lyrics": ""
+    },
+    {
+      "id": 69,
+      "name_category": "",
+      "title": "Al Ahqof - Bukit Pasir (35 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/046.mp3",
+      "duration": "957",
+      "lyrics": ""
+    },
+    {
+      "id": 68,
+      "name_category": "",
+      "title": "Muhammad - Muhammad (38 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/047.mp3",
+      "duration": "737",
+      "lyrics": ""
+    },
+    {
+      "id": 67,
+      "name_category": "",
+      "title": "Al Fath - Kemenangan (29 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/048.mp3",
+      "duration": "721",
+      "lyrics": ""
+    },
+    {
+      "id": 66,
+      "name_category": "",
+      "title": "Al Hujarat - Kamar-kamar (18 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/049.mp3",
+      "duration": "501",
+      "lyrics": ""
+    },
+    {
+      "id": 65,
+      "name_category": "",
+      "title": "Qof - Qof (45 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/050.mp3",
+      "duration": "559",
+      "lyrics": "" 
+    },
+    {
+      "id": 64,
+      "name_category": "",
+      "title": "Az Zariyat - Angin Yang Menerbangkan (60 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/051.mp3",
+      "duration": "544",
+       "lyrics": ""
+    },
+    {
+      "id": 63,
+      "name_category": "",
+      "title": "At Tur - Bukit (49 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/052.mp3",
+      "duration": "485",
+      "lyrics": ""
+    },
+    {
+      "id": 62,
+      "name_category": "",
+      "title": "An Najm - Bintang (62 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/053.mp3",
+      "duration": "461",
+      "lyrics": ""
+    },
+    {
+      "id": 61,
+      "name_category": "",
+      "title": "Al Qomar - Bulan (55 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/054.mp3",
+      "duration": "482",
+      "lyrics": ""
+    },
+    {
+      "id": 60,
+      "name_category": "",
+      "title": "Ar Rahman - Yang Maha Pemurah (78 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/055.mp3",
+      "duration": "679",
+      "lyrics": ""
+    },
+    {
+      "id": 59,
+      "name_category": "",
+      "title": "Al Waqi'ah - Hari Kiamat (96 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/056.mp3",
+      "duration": "716",
+      "lyrics": ""
+    },
+    {
+      "id": 58,
+      "name_category": "",
+      "title": "Al Hadid - Besi (29 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/057.mp3",
+      "duration": "808",
+      "lyrics": "" 
+    },
+    {
+      "id": 57,
+      "name_category": "",
+      "title": "Al Mujadilah - Wanita Yang Mengajukan Gugatan (22 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/058.mp3",
+      "duration": "613",
+       "lyrics": ""
+    },
+    {
+      "id": 56,
+      "name_category": "",
+      "title": "Al Hasyr - Pengusiran (24 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/059.mp3",
+      "duration": "626",
+      "lyrics": ""
+    },
+    {
+      "id": 55,
+      "name_category": "",
+      "title": "Al Mumtahanah - Wanita Yang Diuuji (13 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/060.mp3",
+      "duration": "451",
+      "lyrics": ""
+    },
+    {
+      "id": 54,
+      "name_category": "",
+      "title": "As Shoff - Barisan (14 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/061.mp3",
+      "duration": "292",
+      "lyrics": ""
+    },
+    {
+      "id": 53,
+      "name_category": "",
+      "title": "Al Jumu'ah - Hari Jum'at (11 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/062.mp3",
+      "duration": "573",
+      "lyrics": ""
+    },
+    {
+      "id": 52,
+      "name_category": "",
+      "title": "Al Munafiqun - Orang-orang Munafiq (11 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/063.mp3",
+      "duration": "258",
+      "lyrics": ""
+    },
+    {
+      "id": 51,
+      "name_category": "",
+      "title": "At Tagabun - Hari Dinampakkan Kesalahan (18 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/064.mp3",
+      "duration": "324",
+      "lyrics": "" 
+    },
+    {
+      "id": 50,
+      "name_category": "",
+      "title": "At Tholaq - Talak (12 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/065.mp3",
+      "duration": "361",
+       "lyrics": ""
+    },
+    {
+      "id": 49,
+      "name_category": "",
+      "title": "At Tahrim - Mengharamkan (12 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/066.mp3",
+      "duration": "357",
+      "lyrics": ""
+    },
+    {
+      "id": 48,
+      "name_category": "",
+      "title": "Al Mulk - Kerajaan (30 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/067.mp3",
+      "duration": "455",
+      "lyrics": ""
+    },
+    {
+      "id": 47,
+      "name_category": "",
+      "title": "Al Qolam - Pena (52 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/068.mp3",
+      "duration": "456",
+      "lyrics": ""
+    },
+    {
+      "id": 46,
+      "name_category": "",
+      "title": "Al Haqqoh - Hari Kiamat (52 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/069.mp3",
+      "duration": "405",
+      "lyrics": ""
+    },
+    {
+      "id": 45,
+      "name_category": "",
+      "title": "Al Ma'arij - Tempat Naik (44 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/070.mp3",
+      "duration": "317",
+      "lyrics": ""
+    },
+    {
+      "id": 44,
+      "name_category": "",
+      "title": "Nuh - Nuh (28 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/071.mp3",
+      "duration": "280",
+      "lyrics": "" 
+    },
+    {
+      "id": 43,
+      "name_category": "",
+      "title": "Aj Jin - Jin (28 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/072.mp3",
+      "duration": "334",
+       "lyrics": ""
+    },
+    {
+      "id": 42,
+      "name_category": "",
+      "title": "Al Muzammil - Orang Yang Berselimut (20 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/073.mp3",
+      "duration": "244",
+      "lyrics": ""
+    },
+    {
+      "id": 41,
+      "name_category": "",
+      "title": "Al Muddatssir - Orang Yang Berkemul (56 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/074.mp3",
+      "duration": "324",
+      "lyrics": ""
+    },
+    {
+      "id": 40,
+      "name_category": "",
+      "title": "Al Qiyamah - Hari Kiamat (40 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/075.mp3",
+      "duration": "211",
+      "lyrics": ""
+    },
+    {
+      "id": 39,
+      "name_category": "",
+      "title": "Al Insan - Manusia (31 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/076.mp3",
+      "duration": "314",
+      "lyrics": ""
+    },
+    {
+      "id": 38,
+      "name_category": "",
+      "title": "Al Mursalat - Malaikat Yang Diutus (50 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/077.mp3",
+      "duration": "285",
+      "lyrics": ""
+    },
+    {
+      "id": 37,
+      "name_category": "",
+      "title": "An Naba' - Berita Besar (40 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/078.mp3",
+      "duration": "292",
+      "lyrics": "" 
+    },
+    {
+      "id": 36,
+      "name_category": "",
+      "title": "An Nazi'at - Malaikat Yang Mencabut (46 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/079.mp3",
+      "duration": "256",
+       "lyrics": ""
+    },
+    {
+      "id": 35,
+      "name_category": "",
+      "title": "'Abasa - Yang Bermuka Masam (42 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/080.mp3",
+      "duration": "220",
+      "lyrics": ""
+    },
+    {
+      "id": 34,
+      "name_category": "",
+      "title": "At Takwir - Menggulung (29 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/081.mp3",
+      "duration": "158",
+      "lyrics": ""
+    },
+    {
+      "id": 33,
+      "name_category": "",
+      "title": "Al Infitar -Terbelah (19 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/082.mp3",
+      "duration": "136",
+      "lyrics": ""
+    },
+    {
+      "id": 32,
+      "name_category": "",
+      "title": "Al Mutaffifin - Orang-Orang Yang Curang (36 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/083.mp3",
+      "duration": "310",
+      "lyrics": ""
+    },
+    {
+      "id": 31,
+      "name_category": "",
+      "title": "Al Insyiqoq - Terbelah (25 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/084.mp3",
+      "duration": "160",
+      "lyrics": ""
+    },
+    {
+      "id": 30,
+      "name_category": "",
+      "title": "Al Buruj - Gugusan Bintang (22 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/085.mp3",
+      "duration": "198",
+      "lyrics": "" 
+    },
+    {
+      "id": 29,
+      "name_category": "",
+      "title": "At Thoriq - Yang Datang Di Malam Hari (17 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/086.mp3",
+      "duration": "100",
+       "lyrics": ""
+    },
+    {
+      "id": 28,
+      "name_category": "",
+      "title": "Al A'Laa - Yang Paling Tinggi (19 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/087.mp3",
+      "duration": "107",
+      "lyrics": ""
+    },
+    {
+      "id": 27,
+      "name_category": "",
+      "title": "Al Ghosyiyah - Hari Pembalasan (26 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/088.mp3",
+      "duration": "134",
+      "lyrics": ""
+    },
+    {
+      "id": 26,
+      "name_category": "",
+      "title": "Al Fajr - Fajar (30 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/089.mp3",
+      "duration": "212",
+      "lyrics": ""
+    },
+    {
+      "id": 25,
+      "name_category": "",
+      "title": "Al Balad - Negeri (20 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/090.mp3",
+      "duration": "120",
+      "lyrics": ""
+    },
+    {
+      "id": 24,
+      "name_category": "",
+      "title": "As Syams - Matahari (15 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/091.mp3",
+      "duration": "84",
+      "lyrics": ""
+    },
+    {
+      "id": 23,
+      "name_category": "",
+      "title": "Al Lail - Malam (21 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/092.mp3",
+      "duration": "111",
+      "lyrics": "" 
+    },
+    {
+      "id": 22,
+      "name_category": "",
+      "title": "Ad Dhuha - Waktu Dhuha (11 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/093.mp3",
+      "duration": "65",
+       "lyrics": ""
+    },
+    {
+      "id": 21,
+      "name_category": "",
+      "title": "Al Insyirah - Melapangkan (8 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/094.mp3",
+      "duration": "43",
+      "lyrics": ""
+    },
+    {
+      "id": 20,
+      "name_category": "",
+      "title": "At Tin' - Buah Tin (8 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/095.mp3",
+      "duration": "64",
+      "lyrics": ""
+    },
+    {
+      "id": 19,
+      "name_category": "",
+      "title": "Al 'Alaq - Segumpal Darah (19 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/096.mp3",
+      "duration": "95",
+      "lyrics": ""
+    },
+    {
+      "id": 18,
+      "name_category": "",
+      "title": "Al Qodr - Kemuliaan (5 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/097.mp3",
+      "duration": "45",
+      "lyrics": ""
+    },
+    {
+      "id": 17,
+      "name_category": "",
+      "title": "Al Bayyinah - Pembuktian (8 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/098.mp3",
+      "duration": "126",
+      "lyrics": ""
+    },
+    {
+      "id": 16,
+      "name_category": "",
+      "title": "Al Zalzalah - Kegoncangan (8 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/099.mp3",
+      "duration": "59",
+      "lyrics": "" 
+    },
+    {
+      "id": 15,
+      "name_category": "",
+      "title": "Al 'Adiyat - Kuda Yang Berlari Kencang (286 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/100.mp3",
+      "duration": "70",
+       "lyrics": ""
+    },
+    {
+      "id": 14,
+      "name_category": "",
+      "title": "Al Qori'ah - Hari kiamat (11 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/101.mp3",
+      "duration": "62",
+      "lyrics": ""
+    },
+    {
+      "id": 13,
+      "name_category": "",
+      "title": "At Takatssur - Bermegah-Megahan (8 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/102.mp3",
+      "duration": "62",
+      "lyrics": ""
+    },
+    {
+      "id": 12,
+      "name_category": "",
+      "title": "Al 'Asshr - Demi Masa (3 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/103.mp3",
+      "duration": "27",
+      "lyrics": ""
+    },
+    {
+      "id": 11,
+      "name_category": "",
+      "title": "Al Humazah - Pengumpat (9 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/104.mp3",
+      "duration": "58",
+      "lyrics": ""
+    },
+    {
+      "id": 10,
+      "name_category": "",
+      "title": "Al Fil - Gajah (5 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/105.mp3",
+      "duration": "48",
+      "lyrics": ""
+    },
+    {
+      "id": 9,
+      "name_category": "",
+      "title": "Al Quraisy - Suku Quraisy (4 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/106.mp3",
+      "duration": "42",
+      "lyrics": "" 
+    },
+    {
+      "id": 8,
+      "name_category": "",
+      "title": "Al Ma'un - Barang-Barang Yang Berguna (7 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/107.mp3",
+      "duration": "57",
+       "lyrics": ""
+    },
+    {
+      "id": 7,
+      "name_category": "",
+      "title": "Al Kautsar - Nikmat Yang Berlimpah (3 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/108.mp3",
+      "duration": "24",
+      "lyrics": ""
+    },
+    {
+      "id": 6,
+      "name_category": "",
+      "title": "Al Kafirun - Orang-Orang Kafir (6 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/109.mp3",
+      "duration": "54",
+      "lyrics": ""
+    },
+    {
+      "id": 5,
+      "name_category": "",
+      "title": "An Nashr - Pertolongan (3 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/110.mp3",
+      "duration": "34",
+      "lyrics": ""
+    },
+    {
+      "id": 4,
+      "name_category": "",
+      "title": "Al Lahab - Gejolak Api (5 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/111.mp3",
+      "duration": "41",
+      "lyrics": ""
+    },
+    {
+      "id": 3,
+      "name_category": "",
+      "title": "Al Ikhlas - Ikhlas (4 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/112.mp3",
+      "duration": "21",
+      "lyrics": ""
+    },
+     {
+      "id": 2,
+      "name_category": "",
+      "title": "Al Falaq - Waktu Subuh (5 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/113.mp3",
+      "duration": "33",
+      "lyrics": ""
+    },
+    {
+      "id": 1,
+      "name_category": "",
+      "title": "An Nas - Manusia (6 Ayat)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/114.mp3",
+      "duration": "50",
+      "lyrics": ""
+    }
+    ]
+}
